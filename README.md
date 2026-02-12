@@ -50,9 +50,5 @@ python main.py
 ⚖️ License
 Distributed under the MIT License. See LICENSE for more information.
 
-Developed by [Your Name] Software Engineering Student at Kırklareli University
+Developed by Hikmet Buğra Uzun Software Engineering Student at Kırklareli University
 
-Küçük Bir Tavsiye:
-GitHub profilindeki RubioPT kullanıcı adınla uyumlu olması için Developed by kısmına kendi adını soyadını yazabilirsin. Ayrıca, üniversite bilgisini eklemek (Kırklareli University Software Engineering Student) akademik kimliğini ve bu seviyede bir projeyi 2. sınıfta yapmış olmanı vurgulayacaktır.
-
-Dosyayı yükledikten sonra ana sayfada nasıl göründüğünü kontrol etmek ister misin? Başka bir düzenleme yapmamı ister misin?
